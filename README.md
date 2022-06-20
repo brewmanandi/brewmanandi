@@ -1,9 +1,14 @@
 # 💫About Me :
-🔭 I’m currently working on canva.com and kaleido.ai frontend projects. In my Youtube channel I report from my various tours. I make music.
+🔭 I’m currently working on canva.com and kaleido.ai frontend projects. On my [Youtube channel](https://www.youtube.com/c/AndreasBraumann) I am on tour. I also [make music](https://www.facebook.com/loop.brew.at).
+
 👯 I’m looking to collaborate on creative projects.
+
 🤝 I’m looking for help with finding the best VR games.
+
 🌱 I’m currently learning vue.js 3, Ableton Live and DaVinci Resolve.
+
 💬 Ask me about GoPro tips, music equipment or React & mobx.
+
 ⚡ Fun fact: Can't stop listening to Don Broco.
 
 ## 🌐Socials
