@@ -22,7 +22,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### This person does not exist
+### 🙍🏽‍♂️This person does not exist
 <img src="https://thispersondoesnotexist.com/image" width="512px"/>
 
 ---
