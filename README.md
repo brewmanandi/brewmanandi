@@ -1,5 +1,5 @@
 # 💫 About Me :
-🔭 I’m currently working on canva.com and kaleido.ai. On my [Youtube channel](https://www.youtube.com/c/AndreasBraumann) I am on tour. I also [make music](https://www.facebook.com/loop.brew.at).
+🔭 I’m currently working on canva.com and kaleido.ai. On my [Youtube channel](https://www.youtube.com/c/AndreasBraumann) I am on tour.
 
 👯 I’m looking to collaborate on creative projects.
 
