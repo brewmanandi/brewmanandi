@@ -1,5 +1,5 @@
 # 💫 About Me :
-🔭 I’m currently working on canva.com and kaleido.ai. On my [Youtube channel](https://www.youtube.com/c/AndreasBraumann) I am on tour.
+🔭 On my [Youtube channel](https://www.youtube.com/c/AndreasBraumann) I am on tour.
 
 👯 I’m looking to collaborate on creative projects.
 
@@ -26,9 +26,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🙍🏽‍♂️ This person does not exist
-<img src="https://thispersondoesnotexist.com/image" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=brewmanandi&icon=0&color=0)](https://visitcount.itsvg.in)
